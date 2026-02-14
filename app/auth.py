@@ -4,6 +4,7 @@
 from fastapi import Header, HTTPException
 import os
 import time
+import pysimpleGUI
 
 
 # 🔑 Grab the API key from environment (or use test key for local dev)
